@@ -1,4 +1,4 @@
-The instructions followed for this project can be found on the freeCodeCamp website [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator), and are as follows:
+The instructions followed for this project can be found on the freeCodeCamp website [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer), and are as follows:
 
 # Demographic Data Analyzer
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
