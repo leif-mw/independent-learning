@@ -1,4 +1,4 @@
-The instructions followed for and any datasets used in this project can be found on the freeCodeCamp website [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer), and are as follows:
+The instructions followed for (and any datasets used in) this project can be found on the freeCodeCamp website [here](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer), and are as follows:
 
 # Medical Data Visualizer
 
